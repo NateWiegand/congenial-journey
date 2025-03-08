@@ -1,0 +1,34 @@
+.header{
+    width:250px;
+    font-family:Calibri;
+    text-align:center;
+    margin:auto;
+    padding:20px;
+    border: solid 5px #0077aa;
+    border-radius:20px;
+    background-color:#0FFFFF;
+}
+.schedule{
+    width:250px;
+    font-family:Calibri;
+    text-align:center;
+    margin:auto;
+    padding:20px;
+    border: solid 5px #0077aa;
+    border-radius:20px;
+    background-color:#0FFFFF;
+}
+.grocery-list{
+    width:200px;
+    font-family:Calibri;
+    text-align:center;
+    margin:auto;
+    padding:20px;
+    border: solid 5px #FF8800;
+    background-color:#FFAAAA;
+}
+ul.schedule li{
+    border-bottom: 1px solid #000000;
+    padding-bottom: 10px;
+margin-bottom: 10px;
+}
